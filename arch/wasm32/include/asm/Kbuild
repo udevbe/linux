@@ -1,0 +1,3 @@
+generic-y += irqflags.h
+generic-y += cmpxchg.h
+generic-y += cache.h
